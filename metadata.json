@@ -1,0 +1,6 @@
+{
+  "name": "复杂系统网络分析 WebApp 实验室",
+  "description": "基于谱图论、复杂网络拓扑代数、关键节点中心性、社区发现与级联动力学传播机制的专业级科研与工程分析平台。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
